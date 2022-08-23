@@ -1,3 +1,7 @@
 Hello sri lanka
 Hello india
+<<<<<<< HEAD
 
+=======
+hello afgan
+>>>>>>> a06159381dfc2a5da1019cd36263859d31e710e8
